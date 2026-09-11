@@ -1,0 +1,587 @@
+[
+  {
+    "code": "S1",
+    "Ea_eV": 3.61,
+    "dE_eV": 0.86,
+    "reactants": {
+      "CO": 1,
+      "*": 1
+    },
+    "products": {
+      "C": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S2",
+    "Ea_eV": 2.7,
+    "dE_eV": 1.0,
+    "reactants": {
+      "CO": 1,
+      "H": 1
+    },
+    "products": {
+      "C": 1,
+      "OH": 1
+    }
+  },
+  {
+    "code": "S3",
+    "Ea_eV": 1.94,
+    "dE_eV": 0.18,
+    "reactants": {
+      "CHO": 1,
+      "*": 1
+    },
+    "products": {
+      "CH": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S4",
+    "Ea_eV": 1.69,
+    "dE_eV": -0.11,
+    "reactants": {
+      "CH2O": 1,
+      "*": 1
+    },
+    "products": {
+      "CH2": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S5",
+    "Ea_eV": 1.38,
+    "dE_eV": -0.24,
+    "reactants": {
+      "CH3O": 1,
+      "*": 1
+    },
+    "products": {
+      "CH3": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S6",
+    "Ea_eV": 1.33,
+    "dE_eV": 1.02,
+    "reactants": {
+      "CO": 1,
+      "H": 1
+    },
+    "products": {
+      "CHO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S7",
+    "Ea_eV": 0.79,
+    "dE_eV": 0.42,
+    "reactants": {
+      "CHO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH2O": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S8",
+    "Ea_eV": 0.24,
+    "dE_eV": 0.05,
+    "reactants": {
+      "CH2O": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3O": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S9",
+    "Ea_eV": 1.85,
+    "dE_eV": 0.89,
+    "reactants": {
+      "CO": 1,
+      "H": 1
+    },
+    "products": {
+      "COH": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S10",
+    "Ea_eV": 1.55,
+    "dE_eV": 0.29,
+    "reactants": {
+      "CHO": 1,
+      "H": 1
+    },
+    "products": {
+      "CHOH": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S11",
+    "Ea_eV": 0.53,
+    "dE_eV": 0.03,
+    "reactants": {
+      "CH2O": 1,
+      "H": 1
+    },
+    "products": {
+      "CH2OH": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S12",
+    "Ea_eV": 1.22,
+    "dE_eV": 0.57,
+    "reactants": {
+      "CH3O": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3OH": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S13",
+    "Ea_eV": 1.47,
+    "dE_eV": -0.24,
+    "reactants": {
+      "CHOH": 1,
+      "*": 1
+    },
+    "products": {
+      "CH": 1,
+      "OH": 1
+    }
+  },
+  {
+    "code": "S14",
+    "Ea_eV": 0.96,
+    "dE_eV": -0.48,
+    "reactants": {
+      "CH2OH": 1,
+      "*": 1
+    },
+    "products": {
+      "CH2": 1,
+      "OH": 1
+    }
+  },
+  {
+    "code": "S15",
+    "Ea_eV": 1.79,
+    "dE_eV": -0.96,
+    "reactants": {
+      "CH3OH": 1,
+      "*": 1
+    },
+    "products": {
+      "CH3": 1,
+      "OH": 1
+    }
+  },
+  {
+    "code": "S16",
+    "Ea_eV": 0.93,
+    "dE_eV": -0.7,
+    "reactants": {
+      "CH3CH2OH": 1,
+      "*": 1
+    },
+    "products": {
+      "CH3CH2": 1,
+      "OH": 1
+    }
+  },
+  {
+    "code": "S17",
+    "Ea_eV": 1.45,
+    "dE_eV": 1.11,
+    "reactants": {
+      "CO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S18",
+    "Ea_eV": 1.68,
+    "dE_eV": 0.13,
+    "reactants": {
+      "CHO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH": 1,
+      "OH": 1
+    }
+  },
+  {
+    "code": "S19",
+    "Ea_eV": 0.84,
+    "dE_eV": 0.07,
+    "reactants": {
+      "C": 1,
+      "H": 1
+    },
+    "products": {
+      "CH": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S20",
+    "Ea_eV": 3.25,
+    "dE_eV": 0.31,
+    "reactants": {
+      "CHO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH2": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S21",
+    "Ea_eV": 1.09,
+    "dE_eV": 0.52,
+    "reactants": {
+      "CH": 1,
+      "H": 1
+    },
+    "products": {
+      "CH2": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S22",
+    "Ea_eV": 1.57,
+    "dE_eV": -0.41,
+    "reactants": {
+      "CH2O": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S23",
+    "Ea_eV": 1.75,
+    "dE_eV": -0.39,
+    "reactants": {
+      "CH3O": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3": 1,
+      "OH": 1
+    }
+  },
+  {
+    "code": "S24",
+    "Ea_eV": 0.51,
+    "dE_eV": 0.1,
+    "reactants": {
+      "CH2": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S25",
+    "Ea_eV": 0.25,
+    "dE_eV": -0.32,
+    "reactants": {
+      "CH4": 1,
+      "*": 1
+    },
+    "products": {
+      "CH3": 1,
+      "H": 1
+    }
+  },
+  {
+    "code": "S26",
+    "Ea_eV": 1.11,
+    "dE_eV": 0.84,
+    "reactants": {
+      "CH2": 1,
+      "CO": 1
+    },
+    "products": {
+      "CH2CO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S27",
+    "Ea_eV": 0.72,
+    "dE_eV": -0.36,
+    "reactants": {
+      "CH2": 1,
+      "CHO": 1
+    },
+    "products": {
+      "CH2CHO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S28",
+    "Ea_eV": 1.51,
+    "dE_eV": 0.63,
+    "reactants": {
+      "CH3": 1,
+      "CO": 1
+    },
+    "products": {
+      "CH3CO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S29",
+    "Ea_eV": 0.58,
+    "dE_eV": -0.24,
+    "reactants": {
+      "CH3": 1,
+      "CHO": 1
+    },
+    "products": {
+      "CH3CHO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S30",
+    "Ea_eV": 1.78,
+    "dE_eV": -0.07,
+    "reactants": {
+      "CH3": 1,
+      "CH2O": 1
+    },
+    "products": {
+      "CH3CH2O": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S31",
+    "Ea_eV": 1.38,
+    "dE_eV": 0.34,
+    "reactants": {
+      "CH3CH2": 1,
+      "CO": 1
+    },
+    "products": {
+      "CH3CH2CO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S32",
+    "Ea_eV": 1.97,
+    "dE_eV": -0.12,
+    "reactants": {
+      "CH3CH2": 1,
+      "CHO": 1
+    },
+    "products": {
+      "CH3CH2CHO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S33",
+    "Ea_eV": 1.33,
+    "dE_eV": 0.19,
+    "reactants": {
+      "OH": 1,
+      "*": 1
+    },
+    "products": {
+      "H": 1,
+      "O": 1
+    }
+  },
+  {
+    "code": "S34",
+    "Ea_eV": 1.63,
+    "dE_eV": 0.42,
+    "reactants": {
+      "OH": 1,
+      "H": 1
+    },
+    "products": {
+      "H2O": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S35",
+    "Ea_eV": 1.72,
+    "dE_eV": 0.49,
+    "reactants": {
+      "CO": 1,
+      "O": 1
+    },
+    "products": {
+      "CO2": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S36",
+    "Ea_eV": 1.97,
+    "dE_eV": 0.81,
+    "reactants": {
+      "CO": 1,
+      "OH": 1
+    },
+    "products": {
+      "COOH": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S37",
+    "Ea_eV": 2.85,
+    "dE_eV": 0.88,
+    "reactants": {
+      "CO": 1,
+      "OH": 1
+    },
+    "products": {
+      "CO2": 1,
+      "H": 1
+    }
+  },
+  {
+    "code": "S38",
+    "Ea_eV": 4.49,
+    "dE_eV": 0.61,
+    "reactants": {
+      "CO": 1,
+      "OH": 1
+    },
+    "products": {
+      "HCOO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S39",
+    "Ea_eV": 0.58,
+    "dE_eV": -0.19,
+    "reactants": {
+      "CH2CO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3CO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S40",
+    "Ea_eV": 1.04,
+    "dE_eV": 0.56,
+    "reactants": {
+      "CH3CO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3CHO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S41",
+    "Ea_eV": 0.51,
+    "dE_eV": -0.03,
+    "reactants": {
+      "CH3CHO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3CH2O": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S42",
+    "Ea_eV": 1.36,
+    "dE_eV": 0.5,
+    "reactants": {
+      "CH3CH2O": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3CH2OH": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S43",
+    "Ea_eV": 0.73,
+    "dE_eV": 0.35,
+    "reactants": {
+      "CH3CH2CO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3CH2CHO": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S44",
+    "Ea_eV": 0.53,
+    "dE_eV": 0.05,
+    "reactants": {
+      "CH3CH2CHO": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3CH2CH2O": 1,
+      "*": 1
+    }
+  },
+  {
+    "code": "S45",
+    "Ea_eV": 1.26,
+    "dE_eV": 0.45,
+    "reactants": {
+      "CH3CH2CH2O": 1,
+      "H": 1
+    },
+    "products": {
+      "CH3CH2CH2OH": 1,
+      "*": 1
+    }
+  }
+]
