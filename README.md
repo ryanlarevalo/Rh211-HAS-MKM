@@ -65,3 +65,9 @@ The full 100-point survey and sensitivity calculations are numerically stiff and
 ## Numerical notes
 
 The solver normalizes each dynamic-species balance by its gross formation/consumption rate plus a small relative floor tied to the maximum gross rate. This prevents kinetically dormant species from dominating the nonlinear least-squares problem while retaining the physical steady-state branch. Low-temperature states are obtained by logarithmic continuation and retry with progressively finer continuation paths.
+
+## Archival DOI
+
+The v1.0.0 release associated with the Journal of Catalysis submission is archived in Zenodo:
+
+https://doi.org/10.5281/zenodo.22711342
