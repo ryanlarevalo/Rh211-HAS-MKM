@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite this repository and the associated publication."
 title: "Rh(211) Higher-Alcohol-Synthesis Microkinetic Model"
 version: 1.0.0
+doi: "10.5281/zenodo.22711342"
 date-released: 2026-09-11
 license: MIT
 
