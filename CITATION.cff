@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite this repository and the associated publication."
+title: "Rh(211) Higher-Alcohol-Synthesis Microkinetic Model"
+version: 1.0.0
+date-released: 2026-09-11
+license: MIT
+
+authors:
+  - family-names: Arevalo
+    given-names: Ryan
+  - family-names: Nakanishi
+    given-names: Hiroshi
+
+repository-code: "https://github.com/ryanlarevalo/Rh211-HAS-MKM"
+
+keywords:
+  - microkinetic modeling
+  - higher alcohol synthesis
+  - syngas
+  - Rh(211)
+  - density functional theory
+  - catalysis
+  - ethanol
+  - reaction kinetics
+
+abstract: >
+  Python implementation and machine-readable data for the first-principles
+  microkinetic analysis of higher alcohol synthesis from syngas on Rh(211).
+  The repository contains the steady-state microkinetic model, temperature-
+  pressure scan, degree-of-rate-control analysis, net reaction-flux analysis,
+  reaction-order and apparent-activation-energy calculations, model inputs,
+  and archived numerical validation datasets.
